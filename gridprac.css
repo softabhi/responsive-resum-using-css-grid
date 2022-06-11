@@ -2,4 +2,11 @@
     background-color: aquamarine;
     height: 1000px;
     width: 100%;
+    display: grid;
+    grid-column: 2;
+}
+.left-content{
+   background-color: gold;
+   width: 30%;
+   height: 1000px;
 }
