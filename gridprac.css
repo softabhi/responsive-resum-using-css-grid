@@ -40,4 +40,24 @@
     font-size: 1rem;
     text-align: center;
     padding-bottom: 0.5px;
+    text-transform: uppercase;
+}
+.descpription{
+    font-size: 075rem;
+    text-align: center;
+    padding: 1rem;
+}
+.contact-info{
+
+}
+.contact-item{
+
+}
+.social-media{
+
+}
+li.icon{
+    /* size: 1px; */
+    width: 1rem;
+    height: 2rem;
 }
